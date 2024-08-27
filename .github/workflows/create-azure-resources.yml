@@ -1,4 +1,4 @@
-name: Deploy Bicep file
+name: create azure resources
 on: [workflow_dispatch]
 jobs:
   build-and-deploy:
